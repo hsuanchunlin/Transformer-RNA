@@ -1,0 +1,5 @@
+./log
+.DS_Store
+./checkpoints_64_21_pos
+./checkpoints_RNaseP_pos
+./checkpoints_global_pos

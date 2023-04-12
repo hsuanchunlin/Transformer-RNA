@@ -1,5 +1,9 @@
-./log
+logs/
 .DS_Store
-./checkpoints_64_21_pos
-./checkpoints_RNaseP_pos
-./checkpoints_global_pos
+checkpoints_64_21_pos/
+checkpoints_RNaseP_pos/
+checkpoints_global_pos/
+under_development/
+checkpoints_RNaseP_pos_ABC_2_4
+for3-8/
+.gitignore
